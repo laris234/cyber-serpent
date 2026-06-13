@@ -272,15 +272,15 @@ Cyber-Serpent/
 
 ---
 
-# 👨‍💻 Desenvolvedor
+# 👨‍💻 Desenvolvedora
 
-**Nome:** Seu Nome
+**Nome:** Larissa
 
-**Curso:** Desenvolvimento de Sistemas - SENAI
+**Curso:** IA Generativa Aplicada a Programação - SENAI
 
 **GitHub:**
 
-https://github.com/seuusuario
+https://github.com/laris234
 
 ---
 
